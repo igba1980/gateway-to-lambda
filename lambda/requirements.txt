@@ -1,4 +1,4 @@
-certifi==2025.4.26
+
 charset-normalizer==3.4.2
 CurrencyConverter==0.18.5
 idna==3.10
