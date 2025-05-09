@@ -6,4 +6,5 @@
 layer.python
 *.pyc
 __pycache__/
+converter.zip
 
